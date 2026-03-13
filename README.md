@@ -1,4 +1,4 @@
-# Agent Skill for AI Coding Assistants
+# UIKit Agent Skill for AI Coding Assistants
 
 An agent skill that teaches AI coding assistants how to write correct, modern, and performant UIKit code. It covers the full surface of UIKit development from iOS 13 through iOS 26 — deprecated API replacement, the complete iOS 26 UIKit overhaul (Liquid Glass, updateProperties(), automatic Observable tracking, UICornerConfiguration, HDR colors, typed notifications, interruptible transitions, UIGlassEffect, UIScrollEdgeEffect, iPad menu bar, UISplitViewController inspectors), Auto Layout best practices, view controller lifecycle and architecture, diffable data sources and compositional layout, accessibility compliance, concurrency and thread safety, the #Preview macro, @Observable adoption patterns, and Objective-C interop. Every rule is annotated with its iOS version availability and includes fallback guidance for projects targeting older versions.
 
