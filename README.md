@@ -36,9 +36,19 @@ The skill performs a 12-step review of UIKit code, loading only the reference fi
 
 The skill follows the [Agent Skills](https://agentskills.io) open standard, so it can be added to any compatible agent. Pick the method that fits your setup.
 
+### Claude Code plugin install
+
+Inside Claude Code, run:
+
+```
+/plugin add https://github.com/tornikegomareli/UIKit-Agent-Skill
+```
+
+This installs the skill as a plugin directly from the repository.
+
 ### One-line install
 
-The fastest way. This works across Claude Code, Codex, Gemini, Cursor, and others:
+Works across Claude Code, Codex, Gemini, Cursor, and others:
 
 ```bash
 npx skills add https://github.com/tgomareli/uikit-agent-skill --skill uikit-max
