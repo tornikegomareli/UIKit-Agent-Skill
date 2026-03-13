@@ -1,0 +1,10 @@
+interface:
+  display_name: "UIKit Max"
+  short_description: "Reviews UIKit code for modern best practices."
+  icon_small: "./assets/uikit-max-icon.svg"
+  icon_large: "./assets/uikit-max-icon.png"
+  brand_color: "#007AFF"
+  default_prompt: "Use $uikit-max to review my project."
+
+policy:
+  allow_implicit_invocation: true
