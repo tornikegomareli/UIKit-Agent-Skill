@@ -1,0 +1,5 @@
+{
+  "name": "uikit-max",
+  "description": "Reviews UIKit code for modern best practices, covering deprecated APIs, Auto Layout, view controller lifecycle, accessibility, performance, concurrency, and the full iOS 26 overhaul — from iOS 13 through iOS 26.",
+  "version": "1.0.0"
+}
