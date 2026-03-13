@@ -6,6 +6,9 @@
 [![Swift 6.2+](https://img.shields.io/badge/Swift-6.2+-F05138.svg)](https://swift.org)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-brightgreen.svg)](https://agentskills.io)
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_kzkbtgkzkbtgkzkb" src="https://github.com/user-attachments/assets/bab2118f-d895-4e0d-8298-e41e84bdf36f" />
+
+
 An agent skill that teaches AI coding assistants how to write correct, modern, and performant UIKit code. It covers the full surface of UIKit development from iOS 13 through iOS 26 — deprecated API replacement, the complete iOS 26 UIKit overhaul (Liquid Glass, updateProperties(), automatic Observable tracking, UICornerConfiguration, HDR colors, typed notifications, interruptible transitions, UIGlassEffect, UIScrollEdgeEffect, iPad menu bar, UISplitViewController inspectors), Auto Layout best practices, view controller lifecycle and architecture, diffable data sources and compositional layout, accessibility compliance, concurrency and thread safety, the #Preview macro, @Observable adoption patterns, and Objective-C interop. Every rule is annotated with its iOS version availability and includes fallback guidance for projects targeting older versions.
 
 Built on the [Agent Skills](https://agentskills.io) open standard. Works with Claude Code, Codex, Gemini, Cursor, and any agent that supports the specification.
