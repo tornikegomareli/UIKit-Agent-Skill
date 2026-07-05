@@ -51,7 +51,7 @@ This installs the skill as a plugin directly from the repository.
 Works across Claude Code, Codex, Gemini, Cursor, and others:
 
 ```bash
-npx skills add https://github.com/tgomareli/uikit-agent-skill --skill uikit-max
+npx skills add https://github.com/tornikegomareli/UIKit-Agent-Skill --skill uikit-max
 ```
 
 The installer will ask whether you want the skill available globally or scoped to a single project, and which agents on your machine should receive it.
@@ -63,7 +63,7 @@ Requires Node. If you don't have it: `brew install node` (macOS) or grab it from
 Clone the repo and drop the `uikit-max/` folder into whichever location your agent reads skills from. No build step, no dependencies — it is just Markdown files.
 
 ```bash
-git clone https://github.com/tgomareli/uikit-agent-skill.git
+git clone https://github.com/tornikegomareli/UIKit-Agent-Skill
 cp -r uikit-agent-skill/uikit-max ~/.your-agent/skills/
 ```
 
